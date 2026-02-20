@@ -32,6 +32,10 @@
 ![Static Badge](https://img.shields.io/badge/flask-orange%09?style=flat-square&logo=flask&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/fastapi-blue?style=flat-square&logo=fastapi&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/django-%23092E20?style=flat-square&logo=django&logoColor=white)
+![Static Badge](https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white)
+![Static Badge](https://img.shields.io/badge/symfony-%23000000?style=flat-square&logo=symfony&logoColor=white)
+![Static Badge](https://img.shields.io/badge/laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
 
 
 #### Database
