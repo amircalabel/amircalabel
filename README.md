@@ -12,6 +12,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=ffffff)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-ADD8E6%09?style=flat-square&logo=cplusplus&logoColor=%2300599C)
+![Static Badge](https://img.shields.io/badge/C-darkviolet%09?style=flat-square&logo=c&logoColor=%23A8B9CC)
+
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
