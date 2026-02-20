@@ -43,6 +43,9 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Static Badge](https://img.shields.io/badge/googlecolab-%23F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
