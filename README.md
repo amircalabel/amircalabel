@@ -26,6 +26,8 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/angular-%23FF0000%09?style=flat-square&logo=angular&logoColor=white)
+
 
 #### Backend
 ![Static Badge](https://img.shields.io/badge/flask-orange%09?style=flat-square&logo=flask&logoColor=white)
