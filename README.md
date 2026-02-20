@@ -1,6 +1,5 @@
 ## Hi I'm Amircal 🤖:
 
-![Amircal](https://github.com/Gaboso/Gaboso/blob/master/ "Abel")
 
 
 ### My Tech Stack
