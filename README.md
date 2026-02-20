@@ -57,6 +57,8 @@
 
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
 
 ---
 ⭐️ From [Amircal](https://github.com/amircalabel)
