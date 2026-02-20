@@ -14,6 +14,8 @@
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-ADD8E6%09?style=flat-square&logo=cplusplus&logoColor=%2300599C)
 ![Static Badge](https://img.shields.io/badge/C-darkviolet%09?style=flat-square&logo=c&logoColor=%23A8B9CC)
+![Static Badge](https://img.shields.io/badge/python-grey%09?style=flat-square&logo=python&logoColor=%233776AB)
+
 
 
 #### Frontend
@@ -26,6 +28,9 @@
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 #### Backend
+![Static Badge](https://img.shields.io/badge/flask-orange%09?style=flat-square&logo=flask&logoColor=white)
+![Static Badge](https://img.shields.io/badge/fastapi-blue?style=flat-square&logo=fastapi&logoColor=white)
+![Static Badge](https://img.shields.io/badge/django-%23092E20?style=flat-square&logo=django&logoColor=white)
 
 
 #### Database
@@ -42,6 +47,8 @@
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/qt-%2341CD52?style=flat-square&logo=qt&logoColor=white)
+
 
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
