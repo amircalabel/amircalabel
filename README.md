@@ -14,6 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-ADD8E6%09?style=flat-square&logo=cplusplus&logoColor=%2300599C)
 ![Static Badge](https://img.shields.io/badge/C-darkviolet%09?style=flat-square&logo=c&logoColor=%23A8B9CC)
 ![Static Badge](https://img.shields.io/badge/python-grey%09?style=flat-square&logo=python&logoColor=%233776AB)
+![Static Badge](https://img.shields.io/badge/mongodb-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
 
 
 
